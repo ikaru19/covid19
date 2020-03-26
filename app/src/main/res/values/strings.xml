@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Covid19</string>
+    <string name="notification_channel_description">Lihat disini untuk kondisi kasus COVID19 di Indonesia</string>
+</resources>
